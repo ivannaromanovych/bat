@@ -1,0 +1,1 @@
+cd c:\Windows & (dir /b /s | find /i ".log") > c:\Users\Romanovych\Desktop\new.txt & start C:\"Program Files"\Notepad++\notepad++ c:\Users\Romanovych\Desktop\new.txt
